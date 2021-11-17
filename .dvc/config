@@ -1,0 +1,6 @@
+[core]
+    remote = ssh-storage
+['remote "ssh-storage"']
+    url = ssh://172.23.1.254/storage/VIST
+    user = zyfra-devbox
+    port = 22
